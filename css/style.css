@@ -186,7 +186,7 @@ h1 {
 }
 
 .mob__program {
-  display: block;
+  display: none;
 }
 
 .header__cond .container {
